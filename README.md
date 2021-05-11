@@ -1,0 +1,2 @@
+# StaticTemplate
+Created with CodeSandbox
